@@ -1,0 +1,2 @@
+# Effect-on-Fuel-Economy-in-Emission-Testing
+This project focuses on effect on Fuel Economy in Emission Testing on Chassis Dyno in different shifts. As a calibration engineer I observed that in emission testing the fuel economy is affected in Night shift. This is observed that in night shift the drivers are not full focused and hundred percent in night shift due to which they are not driving the vehicle proper way, this directly affect the emission and also Fuel Economy of the vehicle
